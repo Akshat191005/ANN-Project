@@ -1,2 +1,2 @@
-# ANN-Project
+# Customer Churn Prediction
 Basic ANN project 
